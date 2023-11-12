@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    function welcome(){
+    function Welcome(){
         return "<h1>Hello, Laravel! </h1> ";
     }
 
